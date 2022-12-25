@@ -1,4 +1,4 @@
-##First Project using python
+## First Project using python
 
 It is a simple fun game to learn conditional statements.
 
